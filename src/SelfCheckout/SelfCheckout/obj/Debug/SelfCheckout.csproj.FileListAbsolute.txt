@@ -1,0 +1,7 @@
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\bin\Debug\SelfCheckout.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\bin\Debug\SelfCheckout.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\obj\Debug\SelfCheckout.csprojResolveAssemblyReference.cache
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\obj\Debug\SelfCheckout.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout\obj\Debug\SelfCheckout.pdb

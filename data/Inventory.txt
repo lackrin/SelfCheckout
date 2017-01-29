@@ -1,0 +1,1 @@
+Apple, 1.00, Orange, 1.24, Bread, 3.00, Milk, 3.79, Carrots, 4.43, Eggs, 4.99, Banana, 1.10

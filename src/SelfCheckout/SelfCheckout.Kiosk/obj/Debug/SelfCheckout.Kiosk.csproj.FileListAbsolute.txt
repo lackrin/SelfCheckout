@@ -1,0 +1,10 @@
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\SelfCheckout.Kiosk.exe.config
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\obj\Debug\SelfCheckout.Kiosk.csprojResolveAssemblyReference.cache
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\SelfCheckout.Kiosk.exe
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\SelfCheckout.Kiosk.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\SelfCheckout.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\SelfCheckout.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\obj\Debug\SelfCheckout.Kiosk.exe
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.Kiosk\obj\Debug\SelfCheckout.Kiosk.pdb

@@ -1,0 +1,11 @@
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\SelfCheckout.IntegrationTests.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\SelfCheckout.IntegrationTests.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\nunit.framework.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\SelfCheckout.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\SelfCheckout.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\bin\Debug\nunit.framework.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\obj\Debug\SelfCheckout.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\obj\Debug\SelfCheckout.IntegrationTests.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.IntegrationTests\obj\Debug\SelfCheckout.IntegrationTests.pdb

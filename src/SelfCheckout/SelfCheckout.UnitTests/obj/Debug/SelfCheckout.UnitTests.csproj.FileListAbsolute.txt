@@ -1,0 +1,11 @@
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\SelfCheckout.UnitTests.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\SelfCheckout.UnitTests.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\SelfCheckout.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\SelfCheckout.pdb
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\obj\Debug\SelfCheckout.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\obj\Debug\SelfCheckout.UnitTests.dll
+C:\Users\jharvey\Desktop\SelfCheckout\src\SelfCheckout\SelfCheckout.UnitTests\obj\Debug\SelfCheckout.UnitTests.pdb

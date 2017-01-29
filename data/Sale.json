@@ -1,0 +1,64 @@
+{
+  "ItemName": "Apple",
+  "SaleType": 1,
+  "SalePrice": 50.0,
+  "NumRequired": 1,
+  "ItemDiscount": 0.0,
+  "Id": "c8521d2d-ca4f-46b4-b791-4358e15a4d5e"
+}
+{
+  "ItemName": "Apple",
+  "SaleType": 1,
+  "SalePrice": 0.5,
+  "NumRequired": 1,
+  "ItemDiscount": 0.0,
+  "Id": "9202405c-80b0-4b00-bb1d-dc9146f7119b"
+}
+{
+  "ItemName": "Orange",
+  "SaleType": 2,
+  "SalePrice": 0.50,
+  "NumRequired": 2,
+  "ItemDiscount": 0.0,
+  "Id": "52e30720-3f0b-49f9-9907-deecd01a7171"
+}
+{
+  "ItemName": "banana",
+  "SaleType": 2,
+  "SalePrice": 1.0,
+  "NumRequired": 5,
+  "ItemDiscount": 0.0,
+  "Id": "6ab4564d-d9f2-4e6e-8ee8-e7b720a16265"
+}
+{
+  "ItemName": "banana",
+  "SaleType": 3,
+  "SalePrice": 0.0,
+  "NumRequired": 2,
+  "ItemDiscount": 0.5,
+  "Id": "f51b7adf-a189-41f7-aa20-fbd830326d5d"
+}
+{
+  "ItemName": "Banana",
+  "SaleType": 2,
+  "SalePrice": 1.0,
+  "NumRequired": 5,
+  "ItemDiscount": 0.0,
+  "Id": "148643a2-b334-4e62-a83f-e9a7a36b8988"
+}
+{
+  "ItemName": "Banana",
+  "SaleType": 3,
+  "SalePrice": 0.0,
+  "NumRequired": 3,
+  "ItemDiscount": 0.5,
+  "Id": "5783989b-28ba-4068-8073-fca8ea1a4f68"
+}
+{
+  "ItemName": "Bread",
+  "SaleType": 3,
+  "SalePrice": 0.0,
+  "NumRequired": 2,
+  "ItemDiscount": 0.5,
+  "Id": "a2fd3bdc-2d45-483a-8d08-6f5f92e6dabe"
+}
